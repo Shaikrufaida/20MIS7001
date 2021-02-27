@@ -1,0 +1,7 @@
+import java.util.*;
+class Main{
+public static void main{
+Scanner ru = new Scanner(System.in);
+System.oout.println("hello world");
+}
+}
