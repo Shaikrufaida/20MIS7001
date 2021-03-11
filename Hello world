@@ -1,7 +1,9 @@
-import java.util.*;
+
 class Main{
-public static void main{
-Scanner ru = new Scanner(System.in);
+public static void main(String args[]){
+ int a,b,c;
 System.out.println("hello world");
+System.out.println("This is my april-release code")
+
 }
 }
